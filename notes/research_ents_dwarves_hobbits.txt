@@ -1,0 +1,87 @@
+what are they?
+language(s)
+abilities
+unique
+lifespan
+aliases
+
+Ent
+what are they?
+    2x height of man
+    tree-like creatures
+    Shepherds of the Huorns
+    don't like orcs
+    couldn't speak until the elves taught them (when?)
+    > Entwives? female ents, gardens, something...
+    created so that dwarves would have wood to chop
+language(s)
+    Entish
+    Westron
+abilities
+    speech
+    sapience
+    strength / punching
+    herding
+unique
+lifespan
+    ?
+aliases
+    Onodrim (Elvish)
+instances
+    Treebeard / Fangorn
+
+
+Dwarf
+    what are they?
+        made by Aule
+        first instances: Seven Fathers of the Dwarves
+            only known one is Durin I
+            each becomes a king of a clan, builds a great hall
+            asleep until the Elves are awake. Wake up about a century later
+        don't like orcs (War of the Dwarves and Orcs)
+        a few "wicked dwarves"; instantiate a few dwarves with Evil module
+        7 clans: Longbeards, Firebeards, Broadbeams, Ironfists, Stiffbeards, Blacklocks, Stonefoots
+    language(s)
+        Khuzdul / Dwarvish, Westron
+        Writing: Angerthas
+    abilities
+        learn crafting / masonry/ smithing quickly, esp. with metal or stone; learn from Aulë
+        mining
+        strength
+    unique
+        luxuriant BEARDS
+        about 1/3 of dwarves are women, not seen outside their society
+        most resistant to corruption and influence of Morgoth and Sauron
+        the seven rings do not turn them evil, but do amplify their greed and lust for gold
+        rather insistent on neutrality
+    lifespan
+        up to 250 years
+    aliases
+        Khazad
+        Naugrim (Stunted People)
+        Gonnhirrim (Masters of Stone)
+    instances
+            Balin, Dain, Durin, Gimli, Thrór, Thráin, Nain, Thorin, Gloin
+
+Hobbits
+    what are they?
+        three tribes --> distinctions blur as they settle
+            Harfoots - hillsides and highlands, had frequent contact with dwarves
+            Stoors - live near water or flat land
+            Fallohides - tree and woodlands, contact with elves, prefer hunting to tilling
+        refer to people outside of the Shire as Outsiders
+    language(s)
+        Hobbitish
+        Westron
+    abilities
+        skilled listeners and have good eyesight
+        adept with missile weapons of all kinds, from throwing stones to slings and bows
+    unique
+        ...don't wear shoes?
+        enjoy 7 meals a day
+    lifespan
+        Mature at thirty three
+        aveage is 100, not unusual to live as long as 130
+    aliases
+        Halflings, Holbytla, Kuduk, Kûd-dûkan
+
