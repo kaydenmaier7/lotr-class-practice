@@ -1,0 +1,2 @@
+def LorienElf < Elf
+end

@@ -1,0 +1,2 @@
+def Vala < Ainur
+end

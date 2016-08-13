@@ -1,0 +1,79 @@
+MVP
+  - wire classes to practice inheritance; implement lineage method
+
+
+Classes
+
+Beings
+  Eru Illuvitar
+  Ainur / Quendi - covers high and low angels
+    Vala
+    Maia
+      Balrog
+      Istari
+  Ancient Elf
+    Elf
+      Moldor
+      Sindar
+        Woodland Elf
+    Orc
+  Ent
+  Dwarf
+  Human
+    Hobbit
+      Stoor
+      Harfoots
+  Spiders
+
+  
+
+
+Location
+
+
+Tom Bombadil
+
+Modules
+  THE ONE RING
+  rings of power
+  Aging
+  Evil
+  Alias
+  Use Magic
+  Warring
+  Speak
+    Dwarvish
+    Elvish
+    Western - Orcs, Humans, Hobbits, Dwarves
+    Entish - the entire history of an object
+  Valinor -> method sets @life_expctancy to "infinity"
+
+Attributes
+  name
+  life expectancy
+  species
+  language
+  location
+
+Behaviors
+  travel
+  speak a thing
+  lineage / species checking method, super up  (Wood Elf <- Sindar Elf) 
+
+Instances (sort out eventually)
+
+  Gandalf
+  Frodo
+  Sam
+  Aragon
+  Gimli
+  Legolas
+  Boromir
+  Galadriel
+  Merry
+  Pippin
+  Elrond
+  Eru Illuvitar
+  Eonwe - Vala
+  Aule - 
+

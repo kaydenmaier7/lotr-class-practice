@@ -1,0 +1,2 @@
+def MirkwoodElf < Elf
+end

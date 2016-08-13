@@ -1,0 +1,2 @@
+def Rohan < Human
+end

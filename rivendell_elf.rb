@@ -1,0 +1,3 @@
+
+def RivendellElf < Elf
+end
