@@ -1,2 +1,3 @@
-def Vala < Ainur
+
+class Vala < Ainu
 end

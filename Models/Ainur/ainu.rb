@@ -1,2 +1,3 @@
+
 class Ainu
 end

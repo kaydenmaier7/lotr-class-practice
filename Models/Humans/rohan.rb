@@ -1,2 +1,2 @@
-def Rohan < Human
+class Rohan < Human
 end

@@ -1,3 +1,3 @@
 
-def RivendellElf < Elf
+class RivendellElf < Elf
 end

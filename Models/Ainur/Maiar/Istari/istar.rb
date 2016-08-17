@@ -1,4 +1,3 @@
-require_relative "maia"
 
-class Wizard < Maia
+class Istar < Maia
 end

@@ -1,4 +1,3 @@
-require_relative "ainur"
 
-class Maia < Ainur
+class Maia < Ainu
 end
