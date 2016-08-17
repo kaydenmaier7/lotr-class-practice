@@ -1,0 +1,2 @@
+class Orc < Elf
+end
