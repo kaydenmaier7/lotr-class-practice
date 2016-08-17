@@ -14,12 +14,12 @@ class Ent
 	def initialize
 		@titles = []
 		@ailiases = ['Onodrim']
+		@languages = ['Entish', 'Westron']
 		#Make sure to add a name attribute to the Yavanna class so next
 		#line will work
 		# @created_by = (Yavanna.new.name)
 		@location = 'Fangorn Forest'
 		@height = 15
-		@languages = ['Entish', 'Westron']
 		@tree_type = 'Huorn'
 	
 	end
