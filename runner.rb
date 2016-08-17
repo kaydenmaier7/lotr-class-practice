@@ -27,19 +27,3 @@ require '/Users/Noah/Desktop/DBC/lotr-class-practice/Models/Humans/human'
 require '/Users/Noah/Desktop/DBC/lotr-class-practice/Models/Humans/gondor'
 require '/Users/Noah/Desktop/DBC/lotr-class-practice/Models/Humans/rohan'
 require '/Users/Noah/Desktop/DBC/lotr-class-practice/Models/Humans/Hobbits/hobbit'
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
