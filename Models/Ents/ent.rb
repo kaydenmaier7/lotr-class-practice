@@ -9,10 +9,11 @@
 
 
 class Ent
-	attr_reader :ailiases
+	attr_reader :name, :titles, :ailiases, :languages, :location, :height, :tree_type
 	
 	def initialize
-		@titles = []
+		@name = self.class.to_s
+		@titles = ['Shepherd of the Trees']
 		@ailiases = ['Onodrim']
 		@languages = ['Entish', 'Westron']
 		#Make sure to add a name attribute to the Yavanna class so next
