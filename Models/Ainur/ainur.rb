@@ -1,2 +1,2 @@
-class Ainur
+class Ainu
 end
