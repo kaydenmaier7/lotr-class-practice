@@ -29,12 +29,26 @@ require '/Users/Noah/Desktop/DBC/lotr-class-practice/Models/Humans/Hobbits/hobbi
 
 # p a = Fimbrethil.new
 # puts a.ent_husband
-birch = Birchseed.new
-p birch.titles
-p birch.tree_type
+# birch = Birchseed.new
+# p birch.titles
+# p birch.tree_type
 
 # leaflock = Leaflock.new
 # p leaflock.ailiases
+
+# skinbark = Skinbark.new
+# p skinbark.titles
+# p skinbark.tree_type
+
+# quickbeam = Quickbeam.new
+# p quickbeam.ailiases
+# p quickbeam.tree_type
+
+
+
+
+
+
 
 
 
