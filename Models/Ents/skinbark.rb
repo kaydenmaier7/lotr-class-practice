@@ -1,5 +1,5 @@
 
 
-class Fladrif
+class Skinbark < Ent
 	
 end

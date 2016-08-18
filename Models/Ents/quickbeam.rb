@@ -1,5 +1,5 @@
 
 
-class Quickbeam
+class Quickbeam < Ent
 	
 end
