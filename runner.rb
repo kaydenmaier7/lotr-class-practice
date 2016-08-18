@@ -27,3 +27,16 @@ require '/Users/Noah/Desktop/DBC/lotr-class-practice/Models/Humans/human'
 require '/Users/Noah/Desktop/DBC/lotr-class-practice/Models/Humans/gondor'
 require '/Users/Noah/Desktop/DBC/lotr-class-practice/Models/Humans/rohan'
 require '/Users/Noah/Desktop/DBC/lotr-class-practice/Models/Humans/Hobbits/hobbit'
+
+# p a = Fimbrethil.new
+# puts a.ent_husband
+birch = Birchseed.new
+p birch.titles
+p birch.tree_type
+
+
+
+
+
+
+
