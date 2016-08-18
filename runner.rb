@@ -5,7 +5,7 @@ require '/Users/Noah/Desktop/DBC/lotr-class-practice/Models/Ents/skinbark'
 require '/Users/Noah/Desktop/DBC/lotr-class-practice/Models/Ents/leaflock'
 require '/Users/Noah/Desktop/DBC/lotr-class-practice/Models/Ents/quickbeam'
 
-require '/Users/Noah/Desktop/DBC/lotr-class-practice/Models/Ainur/ainu'
+# require '/Users/Noah/Desktop/DBC/lotr-class-practice/Models/Ainur/ainu'
 require '/Users/Noah/Desktop/DBC/lotr-class-practice/Models/Ainur/Maiar/maia'
 require '/Users/Noah/Desktop/DBC/lotr-class-practice/Models/Ainur/Maiar/Balrogs/balrog'
 require '/Users/Noah/Desktop/DBC/lotr-class-practice/Models/Ainur/Maiar/Istari/istar'

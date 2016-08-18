@@ -1,6 +1,6 @@
 
 class Ainu 
-	attr_reader :titles
+	attr_reader :lifespan, :titles
 
 	def initialize
 		@lifespan = Float::INFINITY
