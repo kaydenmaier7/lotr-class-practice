@@ -2,7 +2,7 @@ require '/Users/Noah/Desktop/DBC/lotr-class-practice/Models/Ents/ent'
 require '/Users/Noah/Desktop/DBC/lotr-class-practice/Models/Ents/treebeard'
 require '/Users/Noah/Desktop/DBC/lotr-class-practice/Models/Ents/birchseed'
 require '/Users/Noah/Desktop/DBC/lotr-class-practice/Models/Ents/fimbrethil'
-require '/Users/Noah/Desktop/DBC/lotr-class-practice/Models/Ents/fladrif'
+require '/Users/Noah/Desktop/DBC/lotr-class-practice/Models/Ents/skinbark'
 require '/Users/Noah/Desktop/DBC/lotr-class-practice/Models/Ents/leaflock'
 require '/Users/Noah/Desktop/DBC/lotr-class-practice/Models/Ents/quickbeam'
 
@@ -30,9 +30,13 @@ require '/Users/Noah/Desktop/DBC/lotr-class-practice/Models/Humans/Hobbits/hobbi
 
 # p a = Fimbrethil.new
 # puts a.ent_husband
-birch = Birchseed.new
-p birch.titles
-p birch.tree_type
+# birch = Birchseed.new
+# p birch.titles
+# p birch.tree_type
+
+leaflock = Leaflock.new
+p leaflock.ailiases
+
 
 
 
