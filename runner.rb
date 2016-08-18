@@ -53,6 +53,8 @@ require '/Users/Noah/Desktop/DBC/lotr-class-practice/Models/Humans/Hobbits/hobbi
 # p eru.alternate_forms.say_hi
 # p tom = TomBombadil.new
 
+# p vala = Vala.new
+
 
 
 
