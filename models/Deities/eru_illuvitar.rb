@@ -1,5 +1,5 @@
 class EruIlluvitar
-	attr_accessor :lifespan
+	attr_reader :lifespan
 
 	def initialize
 		@lifespan = Float::INFINITY
