@@ -11,6 +11,7 @@ require '/Users/Noah/Desktop/DBC/lotr-class-practice/Models/Ainur/Maiar/Balrogs/
 require '/Users/Noah/Desktop/DBC/lotr-class-practice/Models/Ainur/Maiar/Istari/istar'
 require '/Users/Noah/Desktop/DBC/lotr-class-practice/Models/Ainur/Valar/vala'
 
+require '/Users/Noah/Desktop/DBC/lotr-class-practice/Models/Deities/eru_illuvitar'
 require '/Users/Noah/Desktop/DBC/lotr-class-practice/Models/Deities/tom_bombadil'
 
 require '/Users/Noah/Desktop/DBC/lotr-class-practice/Models/Dwarves/dwarf'
@@ -43,10 +44,14 @@ require '/Users/Noah/Desktop/DBC/lotr-class-practice/Models/Humans/Hobbits/hobbi
 # p quickbeam.ailiases
 # p quickbeam.tree_type
 
-a = Ainu.new
-p a.lifespan 
-p a.titles
+# a = Ainu.new
+# p a.lifespan 
+# p a.titles
 
+# p eru = EruIlluvitar.new
+
+# p eru.alternate_forms.say_hi
+# p tom = TomBombadil.new
 
 
 
