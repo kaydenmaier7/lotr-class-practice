@@ -1,11 +1,11 @@
-require_relative '../Deities/eru_illuvitar'
 
-class Ainu < EruIlluvitar
+class Ainu 
 	attr_reader :titles
 
 	def initialize
-		super
-		@titles = %w[Holy\ Ones]
+		@lifespan = Float::INFINITY
+		@titles = ['Holy Ones']
+		@created_by = 'Eru Illuvitar'
 	end
 end
  
