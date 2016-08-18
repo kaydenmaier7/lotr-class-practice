@@ -1,4 +1,4 @@
-# lort-class-practice
+# lotr-class-practice
 
 Contributors:
 - Camille (@camillevilla)
