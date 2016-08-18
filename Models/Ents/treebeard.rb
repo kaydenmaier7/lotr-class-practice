@@ -1,4 +1,4 @@
-# Dir["./Models/*.rb"].each { |file| require file } 
+require_relative 'ent'
 
 class Treebeard < Ent 
 	attr_reader :ent_wife

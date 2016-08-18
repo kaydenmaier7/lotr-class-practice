@@ -1,4 +1,4 @@
-
+require_relative 'ent'
 
 class Leaflock < Ent
 	def initialize

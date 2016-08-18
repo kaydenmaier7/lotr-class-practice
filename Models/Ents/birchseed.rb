@@ -1,4 +1,4 @@
-
+require_relative 'ent'
 
 class Birchseed < Ent
 	def initialize

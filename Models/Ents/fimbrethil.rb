@@ -1,3 +1,4 @@
+require_relative 'ent'
 
 class Fimbrethil < Ent
 	attr_reader :ent_husband
