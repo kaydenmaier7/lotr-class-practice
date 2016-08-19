@@ -1,6 +1,6 @@
 require_relative 'vala'
 
-class Nienne
+class Nienne < Vala
 	
 	def initialize
 		
