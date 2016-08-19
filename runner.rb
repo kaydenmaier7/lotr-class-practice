@@ -67,10 +67,10 @@ require './Models/Humans/Hobbits/hobbit'
 # p eru.alternate_forms.say_hi
 # p tom = TomBombadil.new
 
-p vala = Vala.new
-p vala.titles
-p vala.location
-p vala.weapon
+# vala = Vala.new
+# p vala.titles
+# p vala.location
+# p vala.weapon
 
 
 
