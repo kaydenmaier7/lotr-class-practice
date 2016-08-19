@@ -4,8 +4,8 @@ class EruIlluvitar
 
 	def initialize
 		@existence = Float::INFINITY
-		@alternate_forms = TomBombadil.new
-		@creations = [Ainu.new, Elf.new, Human.new, Dwarf.new]
+		@alternate_form = TomBombadil.new
+		@creations = [Ainu, Elf, Human, Dwarf]
 		
 	end
 
