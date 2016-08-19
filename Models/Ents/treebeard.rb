@@ -5,7 +5,7 @@ class Treebeard < Ent
 	def initialize
 		super
 		@titles += ['Eldest', 'Oldest of the Ents']
-		@ent_wife = 'Fimbrethil'
+		@ent_wife = Fimbrethil
 		@height = 15.4
 	end
 end
