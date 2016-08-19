@@ -24,6 +24,9 @@ require './Models/Ainur/Valar/vána'
 require './Models/Ainur/Valar/vairë'
 require './Models/Ainur/Valar/varda'
 require './Models/Ainur/Valar/yavanna'
+require './Models/Ainur/Valar/melkor'
+require './Models/Ainur/Valar/vala'
+require './Models/Ainur/Valar/helper_file'
 
 require './Models/Deities/eru_illuvitar'
 require './Models/Deities/tom_bombadil'
@@ -71,8 +74,23 @@ require './Models/Humans/Hobbits/hobbit'
 # p vala.titles
 # p vala.location
 # p vala.weapon
+# p vala.aratars
+# p vala.aratar_index
 
 
+manwë = Manwë.new
+# # puts manwë.lifespan
+# # puts manwë.name
+# # p manwë.titles
+# # puts manwë.created_by
+# # puts manwë.location
+# # puts manwë.weapon
+# # puts manwë.powers
+# # p manwë.maiar
+# # p manwë.aliases
+# # p manwë.spouse
+# # p manwë.brother
+p manwë.aratar_index
 
 
 
