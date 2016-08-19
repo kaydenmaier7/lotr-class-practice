@@ -1,4 +1,4 @@
-require_relative "ainur"
+require_relative '../ainu'
 
-class Maia < Ainur
+class Maia < Ainu
 end

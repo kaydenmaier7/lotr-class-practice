@@ -1,2 +1,2 @@
-def MirkwoodElf < Elf
+class MirkwoodElf < Elf
 end
