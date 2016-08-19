@@ -9,7 +9,7 @@
 
 
 class Ent
-	attr_reader :name, :titles, :ailiases, :languages, :location, :height, :tree_type
+	attr_reader :name, :titles, :aliases, :languages, :location, :height, :tree_type
 	
 	def initialize
 		@name = self.class.to_s
