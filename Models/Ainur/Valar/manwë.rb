@@ -1,9 +1,16 @@
 require_relative 'vala'
 
-class Manwë
+class Manwë < Vala
 	
 	def initialize
-		
+		super
+		@titles << %w[Aratar King\ of\ the\ Valar King\ of\ Arda Elder\ King]
+		@aliases = %w[Súlimo Mânawenûz Valahiru]
+		@powers = 'Wind'
+		@spouse = Varda
+		@brother = Melkor
+		# @maiar += [Gandalf, Eönwë]
+
 	end
 	
 	
