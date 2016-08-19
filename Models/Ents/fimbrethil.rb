@@ -5,7 +5,7 @@ class Fimbrethil < Ent
 	
 	def initialize
 		super
-		@ent_husband = 'Treebeard'
+		@ent_husband = Treebeard
 	end
 	
 end
