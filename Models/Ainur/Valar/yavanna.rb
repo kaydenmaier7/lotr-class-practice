@@ -1,6 +1,6 @@
 require_relative 'vala'
 
-class Yavanna
+class Yavanna < Vala
 	
 	def initialize
 		
