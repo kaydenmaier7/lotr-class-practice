@@ -1,6 +1,6 @@
 require_relative 'vala'
 
-class Nessa
+class Nessa < Vala
 	
 	def initialize
 		
