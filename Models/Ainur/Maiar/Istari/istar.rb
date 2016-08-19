@@ -1,0 +1,3 @@
+
+class Istar < Maia
+end

@@ -1,2 +1,2 @@
-def LorienElf < Elf
+class LorienElf < Elf
 end
