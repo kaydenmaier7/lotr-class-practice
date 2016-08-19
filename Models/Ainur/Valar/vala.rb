@@ -1,9 +1,9 @@
 require_relative '../ainu'
 
 class Vala < Ainu
-	attr_reader :location, :weapon, :powers
+	attr_reader :location, :weapon, :powers, :maiar
 	
-	ARATAR = ['Manwë', 'Varda', 'Ulmo', 'Yavanna', 'Aulë', 'Mandos', 'Nienne', 'Oromë']
+	ARATAR = [Manwë, Varda, Ulmo, Yavanna, Aulë, Mandos, Nienne, Oromë]
 	def initialize
 		super
 		@titles += %w[Powers\ of\ Arda Lords\ of\ the\ Valar Queens\ of\ the\ Valar]
@@ -12,5 +12,12 @@ class Vala < Ainu
 		@powers = @weapon
 		@maiar = []
 		# @aratar_index =  
+	end
+
+	# def aratar?(some_class)
+		# ARATAR.find {|vala| vala == self.class} 
+		# some_class.class == Vala 
+		# end
+		
 	end
 end
