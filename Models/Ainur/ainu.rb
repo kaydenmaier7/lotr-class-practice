@@ -5,7 +5,7 @@ class Ainu
 	def initialize
 		@lifespan = Float::INFINITY
 		@titles = ['Holy Ones']
-		@created_by = 'Eru Illuvitar'
+		@created_by = EruIlluvitar
 	end
 end
  
