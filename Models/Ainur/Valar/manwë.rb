@@ -8,6 +8,7 @@ class Manwë < Vala
 		@titles << %w[Aratar King\ of\ the\ Valar King\ of\ Arda Elder\ King]
 		@aliases += %w[Súlimo Mânawenûz Valahiru]
 		@powers = 'Wind'
+		@location =  'Ilmarin, ' + @location
 		@spouse = Varda
 		@brother = Melkor
 		# @maiar += [Gandalf, Eönwë]
