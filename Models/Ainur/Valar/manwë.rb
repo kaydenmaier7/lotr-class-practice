@@ -12,7 +12,7 @@ class Manwë < Vala
 		@location =  'Ilmarin, ' + @location
 		@spouse = Varda
 		@brother = Melkor
-		# @maiar += [Gandalf, Eönwë]
+		# @maiar = [Gandalf, Eönwë]
 
 	end
 	

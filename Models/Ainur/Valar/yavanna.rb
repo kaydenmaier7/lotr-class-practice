@@ -1,7 +1,6 @@
 require_relative 'vala'
 
 class Yavanna < Vala
-	attr_reader :created
 	
 	def initialize
 		super
@@ -12,7 +11,7 @@ class Yavanna < Vala
 		# @maiar = [Radagast]
 		@spouse = Aulë
 		@sister = Vána
-		@created = Ent 
+		@created += [Ent] 
 		
 	end
 	

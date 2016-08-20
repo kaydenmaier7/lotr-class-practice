@@ -1,6 +1,6 @@
 
 class Ainu 
-	attr_reader :name, :lifespan, :titles, :powers, :created_by
+	attr_reader :name, :lifespan, :titles, :powers, :created_by, :created
 
 	def initialize
 		@lifespan = Float::INFINITY
@@ -8,6 +8,7 @@ class Ainu
 		@titles = ['Holy Ones']
 		@powers = 'Powers of the Ainur'
 		@created_by = EruIlluvitar
+		@created = ['Arda', 'Valinor']
 	end
 end
  
