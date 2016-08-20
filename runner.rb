@@ -191,7 +191,7 @@ require './Models/Humans/Hobbits/hobbit'
 # p nessa.brother
 
 tulkas = Tulkas.new 
-# p tulkas.titles
+p tulkas.titles
 p tulkas.aliases
 p tulkas.powers
 p tulkas.spouse
