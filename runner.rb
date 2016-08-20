@@ -168,6 +168,12 @@ p estë.spouse
 p estë.location
 p estë.valiër_index
 
+vairë = Vairë.new
+p vairë.titles
+p vairë.aliases
+p vairë.powers
+p vairë.location
+p vairë.spouse
 
 
 
