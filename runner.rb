@@ -160,13 +160,13 @@ require './Models/Humans/Hobbits/hobbit'
 # p lórien.brother
 # p lórien.sister
 
-estë = Estë.new
-p estë.titles
-p estë.aliases
-p estë.powers
-p estë.spouse
-p estë.location
-p estë.valiër_index
+# estë = Estë.new
+# p estë.titles
+# p estë.aliases
+# p estë.powers
+# p estë.spouse
+# p estë.location
+# p estë.valiër_index
 
 vairë = Vairë.new
 p vairë.titles
@@ -175,8 +175,12 @@ p vairë.powers
 p vairë.location
 p vairë.spouse
 
-
-
+vána = Vána.new
+p vána.titles
+p vána.aliases
+p vána.powers
+p vána.spouse
+p vána.sister
 
 
 
