@@ -16,7 +16,7 @@ require './Models/Ainur/Valar/mandos'
 require './Models/Ainur/Valar/manwë'
 require './Models/Ainur/Valar/nessa'
 require './Models/Ainur/Valar/aulë'
-require './Models/Ainur/Valar/nienne'
+require './Models/Ainur/Valar/nienna'
 require './Models/Ainur/Valar/oromë'
 require './Models/Ainur/Valar/tulkas'
 require './Models/Ainur/Valar/ulmo'
@@ -26,7 +26,6 @@ require './Models/Ainur/Valar/varda'
 require './Models/Ainur/Valar/yavanna'
 require './Models/Ainur/Valar/melkor'
 require './Models/Ainur/Valar/vala'
-require './Models/Ainur/Valar/helper_file'
 
 require './Models/Deities/eru_illuvitar'
 require './Models/Deities/tom_bombadil'
@@ -78,7 +77,7 @@ require './Models/Humans/Hobbits/hobbit'
 # p vala.aratar_index
 
 
-manwë = Manwë.new
+# manwë = Manwë.new
 # # puts manwë.lifespan
 # # puts manwë.name
 # # p manwë.titles
@@ -90,9 +89,12 @@ manwë = Manwë.new
 # # p manwë.aliases
 # # p manwë.spouse
 # # p manwë.brother
-p manwë.aratar_index
+# p manwë.aratar_index
 
-
+p varda = Varda.new
+p varda.aratar_index
+p varda.valiër_index
+p varda.titles
 
 
 
