@@ -16,9 +16,7 @@ class Ent
 		@titles = ['Shepherd of the Trees']
 		@aliases = ['Onodrim']
 		@languages = ['Entish', 'Westron']
-		#Make sure to add a name attribute to the Yavanna class so next
-		#line will work
-		# @created_by = (Yavanna.new.name)
+		@created_by = Yavanna
 		@location = 'Fangorn Forest'
 		@height = 15
 		@tree_type = 'Huorn'
