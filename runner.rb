@@ -151,14 +151,28 @@ require './Models/Humans/Hobbits/hobbit'
 # p oromë.sister
 # p oromë.aratar_index
 
-lórien = Lórien.new
-p lórien.titles
-p lórien.aliases
-p lórien.location
-p lórien.powers
-p lórien.spouse
-p lórien.brother
-p lórien.sister
+# lórien = Lórien.new
+# p lórien.titles
+# p lórien.aliases
+# p lórien.location
+# p lórien.powers
+# p lórien.spouse
+# p lórien.brother
+# p lórien.sister
+
+estë = Estë.new
+p estë.titles
+p estë.aliases
+p estë.powers
+p estë.spouse
+p estë.location
+p estë.valiër_index
+
+
+
+
+
+
 
 
 
