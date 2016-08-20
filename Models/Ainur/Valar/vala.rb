@@ -8,11 +8,12 @@ class Vala < Ainu
   def initialize
     super
     @titles += %w[Powers\ of\ Arda Lords\ of\ the\ Valar Queens\ of\ the\ Valar]
-    @aliases = []
+    @aliases = nil 
     @location = 'Valinor'
     @weapon = 'Powers of the Valar'
     @powers = @weapon
-    @maiar = []
+    # Should I default this to nil or keep it an empty array?
+    @maiar = nil 
     @aratars = [Manwë, Varda, Ulmo, Yavanna, Aulë, Mandos, Nienna, Oromë]
     @aratar_index =  aratar?
     @valiër = [Varda, Yavanna, Nienna, Estë, Vairë, Vána, Nessa]
