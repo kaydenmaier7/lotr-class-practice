@@ -91,21 +91,28 @@ require './Models/Humans/Hobbits/hobbit'
 # # p manwë.brother
 # p manwë.aratar_index
 
-p varda = Varda.new
-p varda.aratar_index
-p varda.valiër_index
-p varda.titles
-p varda.location
+# p varda = Varda.new
+# p varda.aratar_index
+# p varda.valiër_index
+# p varda.titles
+# p varda.location
 
-p ulmo = Ulmo.new
-p ulmo.aratar_index
-p ulmo.titles
-p ulmo.aliases
-p ulmo.powers
-p ulmo.location
+# p ulmo = Ulmo.new
+# p ulmo.aratar_index
+# p ulmo.titles
+# p ulmo.aliases
+# p ulmo.powers
+# p ulmo.location
 
 
-
+yavanna = Yavanna.new
+p yavanna.titles
+p yavanna.aliases
+p yavanna.powers
+p yavanna.spouse
+p yavanna.sister
+p yavanna.created
+p yavanna.valiër_index
 
 
 
