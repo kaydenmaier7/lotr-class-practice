@@ -131,8 +131,14 @@ p mandos.spouse
 p mandos.brother
 p mandos.sister
 
-
-
+nienna = Nienna.new
+p nienna.aratar_index
+p nienna.valiër_index
+p nienna.titles
+p nienna.location
+p nienna.aliases
+p nienna.powers
+p nienna.brothers
 
 
 
