@@ -168,20 +168,33 @@ require './Models/Humans/Hobbits/hobbit'
 # p estë.location
 # p estë.valiër_index
 
-vairë = Vairë.new
-p vairë.titles
-p vairë.aliases
-p vairë.powers
-p vairë.location
-p vairë.spouse
+# vairë = Vairë.new
+# p vairë.titles
+# p vairë.aliases
+# p vairë.powers
+# p vairë.location
+# p vairë.spouse
 
-vána = Vána.new
-p vána.titles
-p vána.aliases
-p vána.powers
-p vána.spouse
-p vána.sister
+# vána = Vána.new
+# p vána.titles
+# p vána.aliases
+# p vána.powers
+# p vána.spouse
+# p vána.sister
 
+# nessa = Nessa.new 
+# p nessa.titles
+# p nessa.aliases
+# p nessa.powers
+# p nessa.spouse
+# p nessa.valiër_index
+# p nessa.brother
+
+tulkas = Tulkas.new 
+# p tulkas.titles
+p tulkas.aliases
+p tulkas.powers
+p tulkas.spouse
 
 
 
