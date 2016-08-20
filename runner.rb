@@ -140,6 +140,16 @@ p nienna.aliases
 p nienna.powers
 p nienna.brothers
 
+oromë = Oromë.new
+p oromë.titles
+p oromë.aliases
+p oromë.location
+p oromë.weapon
+p oromë.powers
+p oromë.spouse
+p oromë.sister
+p oromë.aratar_index
+
 
 
 
