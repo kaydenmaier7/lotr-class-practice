@@ -1,7 +1,7 @@
 require_relative 'vala'
 
 class Manwë < Vala
-	attr_reader :spouse, :brother
+	attr_reader 
 	
 	def initialize
 		super

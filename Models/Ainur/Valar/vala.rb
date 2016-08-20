@@ -1,7 +1,7 @@
 require_relative '../ainu'
 
 class Vala < Ainu
-	attr_reader :aliases, :location, :weapon, :maiar, :aratars, :aratar_index, :valiër, :valiër_index
+	attr_reader :aliases, :location, :weapon, :maiar, :aratars, :aratar_index, :valiër, :valiër_index, :spouse, :brother, :sister
 
 
 	
@@ -17,6 +17,9 @@ class Vala < Ainu
 		@aratar_index =  aratar?
 		@valiër = [Varda, Yavanna, Nienna, Estë, Vairë, Vána, Nessa]
 		@valiër_index = valiër?
+		@spouse = nil
+		@brother = nil
+		@sister = nil
 	end
 
 	private
