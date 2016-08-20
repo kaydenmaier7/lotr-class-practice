@@ -105,24 +105,31 @@ require './Models/Humans/Hobbits/hobbit'
 # p ulmo.location
 
 
-yavanna = Yavanna.new
-p yavanna.titles
-p yavanna.aliases
-p yavanna.powers
-p yavanna.spouse
-p yavanna.sister
-p yavanna.created
-p yavanna.valiër_index
+# yavanna = Yavanna.new
+# p yavanna.titles
+# p yavanna.aliases
+# p yavanna.powers
+# p yavanna.spouse
+# p yavanna.sister
+# p yavanna.created
+# p yavanna.valiër_index
 
-aulë = Aulë.new
-p aulë.titles
-p aulë.aliases
-p aulë.powers
-p aulë.spouse
-p aulë.created
-p aulë.aratar_index
+# aulë = Aulë.new
+# p aulë.titles
+# p aulë.aliases
+# p aulë.powers
+# p aulë.spouse
+# p aulë.created
+# p aulë.aratar_index
 
-
+mandos = Mandos.new
+p mandos.titles
+p mandos.aliases
+p mandos.powers
+p mandos.location
+p mandos.spouse
+p mandos.brother
+p mandos.sister
 
 
 
