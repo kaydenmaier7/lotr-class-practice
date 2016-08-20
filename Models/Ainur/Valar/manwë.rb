@@ -5,7 +5,8 @@ class Manwë < Vala
 	
 	def initialize
 		super
-		@titles << %w[Aratar King\ of\ the\ Valar King\ of\ Arda Elder\ King]
+		@titles += %w[Aratar King\ of\ the\ Valar King\ of\ Arda Elder\ King]
+		@titles.delete('Queens of the Valar')
 		@aliases += %w[Súlimo Mânawenûz Valahiru]
 		@powers = 'Wind'
 		@location =  'Ilmarin, ' + @location
