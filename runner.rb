@@ -95,7 +95,14 @@ p varda = Varda.new
 p varda.aratar_index
 p varda.valiër_index
 p varda.titles
+p varda.location
 
+p ulmo = Ulmo.new
+p ulmo.aratar_index
+p ulmo.titles
+p ulmo.aliases
+p ulmo.powers
+p ulmo.location
 
 
 
